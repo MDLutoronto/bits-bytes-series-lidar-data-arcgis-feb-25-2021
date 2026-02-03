@@ -23,4 +23,4 @@ Please visit the [Bits and Bytes webpage](https://mdl.library.utoronto.ca/suppor
   
  
 
-Technique: [Mapping](/technique/mapping) | Tools: [ArcGIS Pro](/taxonomy/term/70)
+Technique: [Mapping](https://mdl.library.utoronto.ca/technique/mapping) | Tools: [ArcGIS Pro](https://mdl.library.utoronto.ca/taxonomy/term/70)
