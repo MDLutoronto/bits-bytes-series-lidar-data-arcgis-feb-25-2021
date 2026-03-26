@@ -3,6 +3,9 @@ title: "Bits and Bytes Series: Using LiDAR Data in ArcGIS Pro (Feb. 25, 2021)"
 layout: "home"
 description: "This page provides a presentation on Using LiDAR Data in ArcGIS Pro as part of the Bits and Bytes Webinar Series hosted by the Map & Data Library that features presentations and demonstrations on data-related topics and tools, such as web archives, visualization, GIS and statistics."
 created_date: 2025-02-13
+maintainer:
+    - name: Leanne Trimble
+      link: https://library.utoronto.ca/staff/leanne-trimble
 permalink: "/"  #! Remove this if not the homepage
 ---
 
