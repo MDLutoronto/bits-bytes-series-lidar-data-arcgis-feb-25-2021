@@ -22,8 +22,3 @@ In ArcGIS Pro explore the use of Lidar Point Cloud data to create Digital Eleva
 [Link to Handout](https://maps.library.utoronto.ca/workshops/BitsBytesTalks/UsingLidarDatainArcGISPro.pdf)
 
 Please visit the [Bits and Bytes webpage](https://mdl.library.utoronto.ca/support/workshops-training/bits-and-bytes) for more presentations on various tools and topics.
-
-  
- 
-
-Technique: [Mapping](https://mdl.library.utoronto.ca/technique/mapping) | Tools: [ArcGIS Pro](https://mdl.library.utoronto.ca/taxonomy/term/70)
