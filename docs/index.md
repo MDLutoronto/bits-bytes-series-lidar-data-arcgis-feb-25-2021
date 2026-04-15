@@ -19,6 +19,18 @@ This page provides a presentation on **Using LiDAR Data in ArcGIS Pro** as part 
 In ArcGIS Pro explore the use of Lidar Point Cloud data to create Digital Elevation Models (DEM) and Digital Surface Models (DSM) from LAS data. Classify unclassified lidar data, colorize an LAS dataset, visualize it as a scene layer, and view the data in ArcGIS Online.
 
 [Link to Recording - 58:29](https://play.library.utoronto.ca/51f2d09a62ad67180d2f975db6410b67)  
+
+<iframe width="560" height="315" src="https://play.library.utoronto.ca/embed/51f2d09a62ad67180d2f975db6410b67" frameborder="0" allowfullscreen> iframe not supported </iframe>
+
 [Link to Handout](https://maps.library.utoronto.ca/workshops/BitsBytesTalks/UsingLidarDatainArcGISPro.pdf)
 
+<iframe
+  src="https://maps.library.utoronto.ca/workshops/BitsBytesTalks/UsingLidarDatainArcGISPro.pdf"
+  width="100%"
+  height=500
+  style="border: none;">
+</iframe>
+
 Please visit the [Bits and Bytes webpage](https://mdl.library.utoronto.ca/support/workshops-training/bits-and-bytes) for more presentations on various tools and topics.
+
+Technique: [Mapping](https://mdlutoronto.github.io/tutorials-search/?technique=Mapping) | Tools: [ArcGIS Pro](https://mdlutoronto.github.io/tutorials-search/?tool=ArcGIS+Pro)
